@@ -10,7 +10,7 @@ html, body{
 body{
     font-size: 16px;
     font-family: "Trebuchet MS";
-    background-image: linear-gradient(to);
+    background-image: linear-gradient(to bottom, white, #b9c941);
     background-attachment: fixed;
 }
 #navegacao{
